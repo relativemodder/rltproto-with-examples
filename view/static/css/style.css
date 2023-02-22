@@ -1,0 +1,20 @@
+* {
+    font-family: 'Raleway', sans-serif;
+}
+
+.content {
+    padding: 20px;
+    line-height: 2vh;
+}
+
+.message {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.chatBox {
+    background-color: #e7e7e7;
+    width: 30vh;
+    height: 25vh;
+    overflow: scroll;
+}
